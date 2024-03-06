@@ -1,6 +1,6 @@
 # Mapty app &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/Wawrzynn/mapty-app/blob/master/LICENSE)
 
-Mapty app is a web application to setup exercise on a map.
+Mapty app is a web application to setup exercise on a map. Devleoped during [JS Course](https://www.udemy.com/course/the-complete-javascript-course/).
 
 ## Installing / Getting started
 
